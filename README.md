@@ -1,7 +1,10 @@
 # BACKROUND-REMOVAL-OPENCV-CVZONE-MEDIAPIPE
 Tugas Mata Kuliah Pengolahan Citra 
+
 Nama     = Anisa Nur Fadhilah
+
 Kelas    = IK-3A
+
 NIM      = 3.34.21.0.05
 
 # Deskripsi Proyek
